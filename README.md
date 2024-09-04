@@ -21,7 +21,7 @@
 
 ## :beginner: About
 
-Real-Time-Messaging is a comprehensive event management platform that allows users to discover and create events with ease. Built on **NextJS** for fast and efficient server-side rendering, the app uses **TypeScript** for static typing, ensuring a scalable and maintainable codebase. **Tailwind** is employed for a beautiful and responsive UI, while **Mongoose** serves as the data layer, managing interactions with a **MongoDB** database.
+Real-Time-Messaging is a comprehensive live chat management platform that allows users to discover and start chat with ease. Built on **NextJS** for fast and efficient server-side rendering, the app uses **TypeScript** for static typing, ensuring a scalable and maintainable codebase. **Tailwind** is employed for a beautiful and responsive UI, while **Mongoose** serves as the data layer, managing interactions with a **MongoDB** database.
 
 ## :zap: Usage
 
