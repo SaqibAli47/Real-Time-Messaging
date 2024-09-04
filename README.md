@@ -1,6 +1,6 @@
 # Real-Time-Messaging - Web Application with NextJS
 
-**Real-Time-Messaging** is a full-stack web application developed with **NextJS**, **TypeScript**, **Tailwind**, and **Mongoose**. The project also supports complete social authentication with modern technologies. This app allows users to create, manage, and discover events, offering a seamless experience for both event organizers and attendees.
+**Real-Time-Messaging** is a full-stack web application developed with **NextJS**, **TypeScript**, **Tailwind**, and **Mongoose**. The project also supports complete social authentication with modern technologies. This app allows users to start an instant chat, offering a seamless experience for both live chat messaging.
 
 ## :ledger: Index
 
